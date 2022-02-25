@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of a letter from Thomas Paskell of Pennsilvania to his friend J.J. of Chippenham</title>
+            <author>Paskell, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56540</idno>
+            <idno type="STC">Wing P647</idno>
+            <idno type="STC">ESTC R7922</idno>
+            <idno type="EEBO-CITATION">12589202</idno>
+            <idno type="OCLC">ocm 12589202</idno>
+            <idno type="VID">63828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 967:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of a letter from Thomas Paskell of Pennsilvania to his friend J.J. of Chippenham</title>
+                  <author>Paskell, Thomas.</author>
+                  <author>J. J., of Chippenham.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bringhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:63828:1"/>
+            <head>An Abſtract of a LETTER FROM Thomas Paskell OF PENNSILVANIA To his Friend J. J. of Chippenham.</head>
+            <p>MY kind love remembred unto Thee, and thy wife, and to all the reſt of thy Family, hoping that you are all in good health, as through the goodneſs of God we all are at this preſent writing; Excepting one of my ſervants, who was a Carpenter, and a ſtout young man, he died on board the Ship, on our Voyage. I thank God I, and my Wife, have not been ſick at all, but continued rather better than in <hi>England;</hi> and I do not find but the Country is healthfull, for there was a Ship that came the ſame day with us into the river, that loſt but one Paſſenger in the Voyage, and that was their Do<g ref="char:EOLhyphen"/>ctor, who was ill when he came on board? and thoſe people that came in ſince continue well. <hi>William Penn</hi> and thoſe of the Society are arrived. <hi>W. P.</hi> is well approved of, he hath been ſince at <hi>New Yorke.</hi> and was extraordinarily entertained, and he behaved himſelf as Noble. Here is a place called <hi>Philadelphia,</hi> where is a Market kept, as alſo at <hi>
+                  <g ref="char:V">Ʋ</g>pland.</hi> I was at <hi>Bridlington-fair,</hi> where I ſaw moſt ſorts of goods to be ſold, and a great reſort of people; Where I ſaw <hi>Engliſh</hi> goods ſold at very reaſonable rates; The Country is full of goods, Braſs and Pewter lieth upon hand, That which ſells beſt, is Linnen cloath, trading Cloath for the <hi>Indians;</hi> I bought Ker<g ref="char:EOLhyphen"/>ſey and it doth not ſell, Broad Cloath is wanting, and Per<g ref="char:EOLhyphen"/>niſton, and Iron-potts: and as for the <hi>Swedes,</hi> they uſe but little Iron in Building, for they will build, and hardly uſe any other toole but an Ax; They will cut down a Tree, and cut him off when down, ſooner then two men can ſaw him, and rend him into planks or what they pleaſe; only with the Ax and Wooden wedges, they uſe no Iron; They are generaly very in<g ref="char:EOLhyphen"/>genous people, lives well, they have lived here 40 Years, and have lived much at eaſe, having great plenty of all ſorts of provi<g ref="char:EOLhyphen"/>ſions, but then they weer but ordinarily Cloathd; but ſince the <hi>Engliſh</hi> came, they have gotten fine Cloaths, and are go<g ref="char:EOLhyphen"/>ing proud. Let all people know that have any mind to come hither, that they provide Comfortable things for their paſſ<g ref="char:EOLhyphen"/>age, and alſo ſome proviſions to ſerve them here, for al<g ref="char:EOLhyphen"/>though things are to be had at reaſonable rates here, yet it is in far to fetch, that it ſpends much time, ſo that it's better to come provided for half a Year then to want one day, I thank God we have not wanted, but have fared well beyond what we did in <hi>England.</hi>
+            </p>
+            <p>The River is taken up all along, by the <hi>Sweads,</hi> and <hi>Finns,</hi> and ſome <hi>Dutch,</hi> before the <hi>Engliſh</hi> came, neare eight ſcore miles, and the <hi>Engliſhmen</hi> ſome of them, buy their Plantati<g ref="char:EOLhyphen"/>ons, and get roome by the great River-ſide, and the reſt get int<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Creeks,</hi> and ſmall rivers that run into it, and ſome go into the Woods ſeven or eight Miles; <hi>Thomas Colborne</hi> is three miles in the Woods, he is well to paſs, and hath about fourteen Acres of Corne now growing, and hath gotten between 30 and 40 li. by his Trade, in this ſhort time. I have hired a Houſe for my Family for the Winter, and I have gotten a little Houſe in my Land for my ſervants, and have cleared Land about ſix Acres; and this I can ſay, I never wiſht my ſelf at <hi>Briſtol</hi> again ſince my departure. I live in the <hi>Se<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ll Creek,</hi> near <hi>Phila<g ref="char:EOLhyphen"/>delphia,</hi> about 100 Miles up the River. Here have been 22 Ships with Paſſengers within this Year, ſo that proviſions are ſome what hard to come by in ſome places, though at no dear rate, there is yet enough in the River, but it is far to fetch, and ſuddainly there will be an Order taken for continuall ſup<g ref="char:EOLhyphen"/>ply. Now I ſhall give you an impartial account of the Coun<g ref="char:EOLhyphen"/>try as I find it, as followeth When we came into <hi>Delawarebay,</hi> we ſaw an infinite number of ſmall fiſh in ſholes, alſo large fi<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> leaping in the Water: The River is a brave pleaſant River as can be deſired, affording divers ſorts of fiſh in great plenty, it's planted all along the Shoare, and in ſome <hi>Creeks,</hi> eſpecialy in <hi>Penſilvania</hi> ſide, moſtly by <hi>Sweads, Finns,</hi> and <hi>Dutch,</hi> and now at laſt, <hi>Engliſh</hi> throng in among them, and have filed all the Rivers and <hi>Creeks</hi> a great way in the Woods, and have ſettl<g ref="char:EOLhyphen"/>ed about 160 Miles up the great River; ſome <hi>Engliſh</hi> that
+<pb n="2" facs="tcp:63828:2"/>are above the falls, have ſowed this Year 30 or 40 buſhels of Wheat, and have great ſtocks of Cattel; Moſt of the <hi>Sweads,</hi> and <hi>Finns</hi> are ingeneous people, they ſpeak <hi>Engliſh, Swead, Finn, Dutch</hi> and the <hi>Indian;</hi> They plant but little <hi>Indian</hi> corne, not Tobacco; their Women make moſt of the Linnen cloath they wear, they Spinn and Weave it and make fine Linnen, and are many of them curious houſewives: The people generally eat Rye bread, being approved of beſt by them; not but that here is good Wheat, for I have eaten as good bread and drank as good drink as ever I did in <hi>England,</hi> as alſo very good butter and cheeſe, as moſt in <hi>England.</hi> Here is 3 ſorts of Wheat, as Winter, Summer, and Buck Wheat; the Wint<g ref="char:EOLhyphen"/>er Wheat they ſow at the fall, the Summer Wheat <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> March, theſe two ſorts are ripe in June; then having taken in this, they plow the ſame land, and ſow Buck Wheat, which <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ripe in September: I have not given above 2 <abbr>s</abbr> 6 <abbr>d.</abbr> 
+               <hi>per</hi> skipple, (which is 3 <hi>Engliſh</hi> pecks) for the beſt Wheat and th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in goods which coſt little more then half ſo much in <hi>England;</hi> here is very good Rye at 2 <abbr>s</abbr> 
+               <hi>per</hi> skipple, alſo Barly of 2 ſorts, as Winter, and Summer, at 4 Guilders <hi>per</hi> skipple; alſo Oats, and 3 ſorts of <hi>Indian</hi> Corne, (two of which ſorts they can Malt and make good bear of as of Barley,) at four Guilders <hi>per Skiple,</hi> a <hi>Guilder</hi> is four pence half penney. I have bought good Beef, Porke, and Mutton at two pence <hi>per pound</hi> and ſome cheaper, alſo <hi>Turkeys</hi> and <hi>Wild-geeſe</hi> at the value of two or three Pound of Shot<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> apeice, and <hi>Ducks</hi> at one Pound of Shot, or the like value, and in great plenty: here is great ſtore of poultry, but for <hi>Curlews, Pidgons,</hi> and <hi>Pheſants,</hi> they w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll hardly beſtow a ſhot upon them. I have Veniſon of the <hi>Indi<g ref="char:EOLhyphen"/>ans</hi> very cheap, although they formerly ſold it as cheap a<g ref="char:EOLhyphen"/>gain to the <hi>Sweads;</hi> I have four <hi>Dear</hi> for two yards of trading cloath, which coſt five ſhillings, and moſt times I pur<g ref="char:EOLhyphen"/>chaſe it cheaper: We had <hi>Bears fleſh</hi> this fall for little or no<g ref="char:EOLhyphen"/>thing, it is good food, taſting much like Beef; There have been many <hi>Horſes</hi> ſold of late to <hi>Barbadoes,</hi> and here is plenty of <hi>Rum, Sugar, Ginger,</hi> and <hi>Molaſſes.</hi> I was lately at <note n="*">In New-<hi>Jerſey.</hi>
+               </note> 
+               <hi>Bridlington-fair,</hi> where were a great reſort of people, with Cattle and all ſorts of Goods, ſold at very reaſonable rates.</p>
+            <p>Here are Gardens with all ſorts of Herbs, and ſome more then in <hi>England,</hi> alſo <hi>Gooſe-beries</hi> and <hi>Roaſetrees,</hi> but what other Flowers I know not yet: <hi>Turnips, Parſnips,</hi> and <hi>Cabbages,</hi> beyond Compare. Here are <hi>Peaches</hi> in abun<g ref="char:EOLhyphen"/>dance of three ſorts I have ſeen rott on the Ground, and the Hogs eate them, they make good Spirits from them, alſo from <hi>Corne</hi> and <hi>Cheries,</hi> and a ſort of wild <hi>Plums</hi> and <hi>Grapes,</hi> and moſt people have Stills of <hi>Copper</hi> for that uſe. Here are <hi>Apples,</hi> and <hi>Pears,</hi> of ſeveral ſorts, <hi>Cheries</hi> both Black and Red, and <hi>Plums,</hi> and <hi>Quinces;</hi> in ſome places <hi>Peach Stones</hi> grow up to bear in three Years: the Woods are full of <hi>Oakes,</hi> many very high and ſtreight, many of them about two foot through, and ſome bigger, but very many leſs; A <hi>Swead</hi> will tell twelve of the bigger in a day; Here are brave <hi>Poplar, Beach, Aſh, Lyme-trees, Gum-trees, Hickary-trees, Saſafras, Wallnuts,</hi> and <hi>Cheſnuts, Hazel,</hi> and <hi>Mullberies.</hi> Here growes in the Woods abundance of <hi>Wortle-beries,</hi> or <hi>Whorts, Strawberies</hi> and <hi>Blackberies,</hi> better then in <hi>England,</hi> as alſo three ſorts of <hi>Grape;</hi> and <hi>Plums;</hi> Here is but few <hi>Pine-trees,</hi> and <hi>Ceder;</hi> Here is good <hi>Fireſtone</hi> plenty enough in moſt places: and the Woods are full of runs of water. I have lately ſeen ſome <hi>Salt,</hi> very good to ſalt meat with, brought by an <hi>Indian</hi> out of the Woods: they ſay there is enough of it: but for <hi>Minnerals</hi> or <hi>Mettals,</hi> I have not ſeen any, except it be <hi>Marcaſite,</hi> ſuch as they make <hi>Vitriol</hi> or <hi>Copperis</hi> with in <hi>England.</hi> Here are <hi>Beavers, Rackoons, Woolves, Bears,</hi> a ſort of <hi>Lyons, Polecatts, Muſhratts, Elks, Mincks, Squirills</hi> of ſeverall ſorts and other ſmall Creatures, but none of theſe hurt unleſs ſurpriſed: alſo <hi>Rattle Snakes</hi> and <hi>black Snakes,</hi> but the <hi>Rattle Snaks</hi> I have not ſeen, though I have rambled the Woods much theſe three Months, ſince the beginning of <hi>September.</hi> The <hi>Indians</hi> are very quiet and peaceable, having their underſtandings, and qualifications, and when abuſed will ſeek revenge, they live much better ſince the <hi>Engliſh</hi> came; getting neceſſarys as cheap again as for<g ref="char:EOLhyphen"/>merly, and many of them begin to ſpeake <hi>Engliſh,</hi> I have heard one ſay, <hi>Swead no good, Dutch man no good,</hi> but <hi>Engliſhman good.</hi> William Penn is ſettling people in Towns. There are Markets kept in two Towns <hi>viz. Philadelphia,</hi> being Chiefeſt, <hi>Cheſter,</hi> formrely called <hi>
+                  <g ref="char:V">Ʋ</g>pland.</hi> To write of the Seaſons of the Year I cannot, bun ſince I came it hath been very pleaſant weather. The Land is generally good and yet there is ſome but ordinary and barren ground. Here are <hi>Swamps</hi> which the <hi>Sweads</hi> prize much, and many people will want: And one thing more I ſhall tell you, I know a man together with two or three more, that have happened upon a piece of Land of ſome Hundred Acres, that is all cleare, without Trees, Buſhes, ſtumps, that may be Plowed without let, the farther a man goes in the Coun<g ref="char:EOLhyphen"/>try the more ſuch Land they find. There is alſo good Land, full of Large and ſmall Trees, and ſome good Land, but few Trees on it. The Winter is ſharp and the Cattel are hard to keep. The people that come muſt work and know Country affairs; They muſt be provided with ſome pro<g ref="char:EOLhyphen"/>viſions for ſome time in the Country, and alſo ſome to help along on Board the Ship. I have more to write, but am ſhortned in time. <hi>Vale.</hi>
+            </p>
+            <closer>
+               <signed>Thomas Paskell.</signed>
+               <dateline>
+                  <hi>Penſilvania,</hi> 
+                  <date>
+                     <hi>the laſt of January,</hi> 1682/3</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Bringhurſt,</hi> at the Sign of the <hi>Book</hi> in <hi>Grace-Church-Street. 1683.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
